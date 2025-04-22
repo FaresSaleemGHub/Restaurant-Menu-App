@@ -38,7 +38,7 @@ local.properties
 *.tmp
 
 ## 🎥 Demo
-Watch the game in action: [Youtube](https://www.youtube.com/watch?v=EHl8-I7jvrk&ab_channel=FaresT.H.Al-SayedSaleem)
+Watch the game in action: [Youtube](https://www.youtube.com/watch?v=EHl8-I7jvrk)
    
 ## 👤 Author
 Your Name – @FaresSaleemGHub
