@@ -27,7 +27,6 @@ To get a local copy of the project running on your machine:
 2. Open the project in Android Studio and click Open an existing project.
 3. Build and run the app either on an emulator or a connected Android device.
 
-
 ## 📂 .gitignore
 The following file types and directories are ignored in this repository:
 *.iml
@@ -37,9 +36,13 @@ local.properties
 *.log
 *.tmp
 
-## 🎥 Demo
-Watch the game in action: [Youtube](https://www.youtube.com/watch?v=EHl8-I7jvrk)
-![Restaurant Menu Demo](assets/demo.jpeg)
+## 📱 App Demo
+Here’s a quick preview of the app in action:
+### 🖼️ Image Preview
+![Restaurant Menu Screenshot](assets/demo-image.png)
+
+### 🎥 Video Demo
+https://user-images.githubusercontent.com/your-username/video-demo.mp4
 
 ## 👤 Author
 Your Name – @FaresSaleemGHub
