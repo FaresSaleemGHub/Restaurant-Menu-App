@@ -3,7 +3,7 @@
 
 ---
 
-## 📄 Description
+## 📱 Overview
 An Android application that provides an interactive restaurant menu for users to browse food items categorized into meals, sandwiches, entrees, drinks, and additions. The app allows users to view details about each food item and get a seamless experience for browsing and selecting items.
 
 ## 🎯 Features
