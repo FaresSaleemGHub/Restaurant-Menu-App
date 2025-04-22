@@ -42,7 +42,7 @@ Here’s a quick preview of the app in action:
 ![Restaurant Menu Screenshot](assets/demo.jpeg)
 
 ### 🎥 Video Demo
-https://user-images.githubusercontent.com/your-username/video-demo.mp4
+[▶️ Click to watch demo](https://www.youtube.com/watch?v=EHl8-I7jvrk)
 
 ## 👤 Author
 Your Name – @FaresSaleemGHub
