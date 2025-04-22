@@ -1,0 +1,25 @@
+# Android Studio specific files
+*.iml
+.idea/
+.DS_Store
+local.properties
+
+# Gradle files and build directories
+.gradle/
+build/
+.cxx/
+.externalNativeBuild/
+
+# Logs and temporary files
+*.log
+
+# APKs and binaries
+*.apk
+*.zip
+*.mp4
+
+# Captures (screenshot recordings)
+captures/
+
+# Miscellaneous
+*.DS_Store
