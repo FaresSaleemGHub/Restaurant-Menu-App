@@ -39,7 +39,8 @@ local.properties
 
 ## 🎥 Demo
 Watch the game in action: [Youtube](https://www.youtube.com/watch?v=EHl8-I7jvrk)
-   
+![Restaurant Menu Demo](assets/demo.jpeg)
+
 ## 👤 Author
 Your Name – @FaresSaleemGHub
 
