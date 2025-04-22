@@ -39,7 +39,7 @@ local.properties
 ## 📱 App Demo
 Here’s a quick preview of the app in action:
 ### 🖼️ Image Preview
-![Restaurant Menu Screenshot](assets/demo-image.png)
+![Restaurant Menu Screenshot](assets/demo.jpeg)
 
 ### 🎥 Video Demo
 https://user-images.githubusercontent.com/your-username/video-demo.mp4
