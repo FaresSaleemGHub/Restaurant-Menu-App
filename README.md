@@ -1,5 +1,6 @@
 # 🍽️ Restaurant Menu App (Android)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+It's a simple Restaurant Menu Android application for entertainment.
 
 ---
 
@@ -52,17 +53,6 @@ To get a local copy of the project running on your machine:
    git clone https://github.com/FaresSaleemGHub/Restaurant-Menu-App.git
 2. Open the project in Android Studio and click Open an existing project.
 3. Build and run the app either on an emulator or a connected Android device.
-
----
-
-## 📂 .gitignore
-The following file types and directories are ignored in this repository:
-*.iml
-.gradle/
-build/
-local.properties
-*.log
-*.tmp
 
 ---
 
