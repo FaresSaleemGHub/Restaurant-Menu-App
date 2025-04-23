@@ -77,7 +77,7 @@ Here’s a quick preview of the app in action:
 ---
 
 ## 👤 Author
-Your Name – @FaresSaleemGHub
+Written with passion by – @FaresSaleemGHub
 
 ---
 
