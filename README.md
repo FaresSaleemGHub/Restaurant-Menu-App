@@ -49,7 +49,7 @@ An Android application that provides an interactive restaurant menu for users to
 To get a local copy of the project running on your machine:
 1. **Clone the repo**:
    ```bash
-   git clone https://github.com/faresaleemHub/Resturant-Menu.git
+   git clone https://github.com/FaresSaleemGHub/Restaurant-Menu-App.git
 2. Open the project in Android Studio and click Open an existing project.
 3. Build and run the app either on an emulator or a connected Android device.
 
